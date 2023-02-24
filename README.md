@@ -3,4 +3,13 @@ Park N Go is a parking management system that uses QR technology for check in an
 
 Demo: https://parkngo.is-best.net/
 
-<b> How to use the application? <b?
+<b> How to use the application? </b>
+1. Download this sample QR <a href='https://parkngo.is-best.net/QR%20Generation/Generated%20QR%20Codes/QR_G%2040.png'>G40</a> on your phone or print it
+2. Lauch the URL: https://parkngo.is-best.net/
+4. Choose Standard User
+5. Select the first Car Icon
+6. Select date = today
+7. Click on the center dot for parking G40 and click on book parking
+8. Select second icon Camera. Scan your QR code and click on check in
+9. For check out, Select second icon Camera and scan same QR code for check out
+
